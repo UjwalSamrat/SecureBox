@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SecureBox</string>
+    <string name="title_text">SecureBox</string>
+    <string name="subtitle_text">Your Biometric Vault</string>
+    <string name="app_logo_desc">App Logo</string>
+    <string name ="finger_print">Fingerprint Icon</string>
+    <string name ="unlock_fingerprint">Tap the fingerprint to unlock</string>
+    <string name="Vault_message">Welcome to the SecureVault!</string>
+    <string name="Vault_text">Vault Unlocked! Welcome, Ujwal.</string>
+</resources>
