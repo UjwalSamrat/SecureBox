@@ -7,4 +7,5 @@
     <string name ="unlock_fingerprint">Tap the fingerprint to unlock</string>
     <string name="Vault_message">Welcome to the SecureVault!</string>
     <string name="Vault_text">Vault Unlocked! Welcome, Ujwal.</string>
+    <string name="Vault_button">Add file</string>
 </resources>
